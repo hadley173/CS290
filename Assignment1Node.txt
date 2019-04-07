@@ -1,1 +1,5 @@
+Node Address:
 http://flip3.engr.oregonstate.edu:25696/
+
+Github repository:
+https://github.com/hadley173/CS290
